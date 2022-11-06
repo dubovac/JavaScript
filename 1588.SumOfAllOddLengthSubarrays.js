@@ -54,19 +54,3 @@ function sumOddLengthSubarrays(arr) {
 console.log(sumOddLengthSubarrays([1, 4, 2, 5, 3]));
 console.log(sumOddLengthSubarrays([1, 2]));
 console.log(sumOddLengthSubarrays([10, 11, 12]));
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
